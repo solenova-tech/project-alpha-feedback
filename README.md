@@ -7,7 +7,7 @@ This is a browser extension that allows you to block access to specific websites
 - 5-minute relaxation period
 
 ## Installation
-- Google Chrome: Install via the [Chrome Web Store](link-to-be-added)
+- Google Chrome: Install via the [Chrome Web Store](https://chrome.google.com/webstore/detail/project-alpha/pjgopjhmnbgiokgioagigfpmabeopodn)
 - Microsoft Edge: Install via the [Microsoft Edge Addons](link-to-be-added)
 
 ## Usage
