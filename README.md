@@ -8,7 +8,7 @@ This is a browser extension that allows you to block access to specific websites
 
 ## Installation
 - Google Chrome: Install via the [Chrome Web Store](https://chrome.google.com/webstore/detail/project-alpha/pjgopjhmnbgiokgioagigfpmabeopodn)
-- Microsoft Edge: Install via the [Microsoft Edge Addons](link-to-be-added)
+- Microsoft Edge: Install via the [Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/alpha/nedlafnkjmlmnnobbkjmljelpnchhcfc)
 
 ## Usage
 1. Click on the RestrictMe icon in your browser toolbar.
